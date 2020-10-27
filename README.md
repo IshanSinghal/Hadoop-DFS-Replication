@@ -11,3 +11,7 @@ What is replication and why is it needed?
 How is replication done?
 
 What happens when a DataNode crashes during Node?
+
+![Concept](https://github.com/IshanSinghal/Hadoop-DFS-Replication/blob/main/REPLICAS.png)
+
+![Concept](https://github.com/IshanSinghal/Hadoop-DFS-Replication/blob/main/diagram.jpg)
